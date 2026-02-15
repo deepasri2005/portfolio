@@ -1,11 +1,7 @@
 # portfolio
 A modern, responsive Data Analyst portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and experience.
  📊 Data Analyst Portfolio
-
-A modern, responsive portfolio website built to showcase my skills, projects, and background as an aspiring **Data Analyst**.  
-This portfolio highlights my technical expertise, academic journey, and interest in data-driven problem solving.
----
-
+ 
  🔗 Live Portfolio
 👉 https://deepasri2005.github.io/portfolio/
 --
